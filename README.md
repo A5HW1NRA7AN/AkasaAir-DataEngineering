@@ -18,7 +18,7 @@ This project implements the *Akasa Air Data Engineer Task-1* requirements:
    - Monthly Order Trends  
    - Regional Revenue  
    - Top Customers (Last 30 Days)
-4. Include:
+4. Includes:
    - Time-zone normalization (Asia/Kolkata → UTC)
    - Daily re-runnable ETL
    - Visualizations for insights (via Streamlit + Plotly)
