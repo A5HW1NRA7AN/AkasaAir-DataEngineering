@@ -61,7 +61,7 @@ flowchart TD
 ----
 
 ## 🏗 Project Structure
-
+```
 akasaair_de_task/
 ├─ README.md
 ├─ run_pipeline.py # orchestrates both approaches
@@ -87,7 +87,7 @@ akasaair_de_task/
 │ └─ dashboard/ # visualization layer
 │ └─ streamlit_app.py
 └─ setup_and_run_etl.bat # runs ETL + schedules daily job
-
+```
 -----
 
 ## 🧩 Implementation Details
